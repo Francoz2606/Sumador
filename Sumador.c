@@ -1,9 +1,9 @@
 #include <stdio.h>
 #define p printf
 #define s scanf
-
+/*Hola mundo*/ 
 int main(void){
-    int num1, num2, suma, resta;
+    int num1, num2, suma, resta, division, multiplicacion;
     
     
         p("ingrese un valor: ");
